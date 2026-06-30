@@ -29,8 +29,8 @@ body {
     padding: 25px;
 }
 button {
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
     border-radius: 50%;
     border: none;
     background-color: hsl(0, 0%, 30%);
